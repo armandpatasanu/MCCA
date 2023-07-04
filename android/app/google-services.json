@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "941801669219",
+    "project_id": "fitxkonnect",
+    "storage_bucket": "fitxkonnect.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941801669219:android:10c00d5bf2687e83a12e56",
+        "android_client_info": {
+          "package_name": "com.example.fitxkonnect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "941801669219-do1fa4keio7if8u72o6ngs57881ef6kq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu0KX8RITd1tNJd4OM2Bp4NGHPUV66ucw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "941801669219-do1fa4keio7if8u72o6ngs57881ef6kq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
